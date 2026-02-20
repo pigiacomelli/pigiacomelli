@@ -71,6 +71,6 @@ I focus on full-spectrum engineering — from memory management and algorithms i
 
 ## 🌐 Portfolio & Profiles
 
-- LinkedIn: https://www.linkedin.com/in/pietro-giacomelli-ab9959305/
+- LinkedIn: https://www.linkedin.com/in/pietro-giacomelli/
 - Devpost: https://devpost.com/pietrogiacomelli8
 - Email: pietrogacomelli8@gmail.com
