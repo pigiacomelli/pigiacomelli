@@ -1,4 +1,4 @@
-# 👨‍💻 [Your Name]
+# 👨‍💻 Pietro Giacomelli
 
 **Software Developer | Systems, Mobile & Product Engineering**
 
@@ -61,7 +61,7 @@ Algorithms · Data Structures · Linux · Memory Management
 
 ## 📫 Contact
 
-- LinkedIn: [[add link]](https://www.linkedin.com/in/pietro-giacomelli-ab9959305/)
+- LinkedIn: (https://www.linkedin.com/in/pietro-giacomelli-ab9959305/)
 - Email:(https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pietrogiacomelli8@gmail.com) 
 
 <!--
