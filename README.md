@@ -4,7 +4,7 @@
 
 Student at 42 Porto and Economics student at the Faculty of Economics of the University of Porto (FEP).
 
-I’m interested in full-spectrum engineering — from memory management and algorithms in C to mobile applications integrated with AI services. I focus on understanding systems deeply: architecture, data modeling, performance, and real-world impact.
+I focus on full-spectrum engineering — from memory management and algorithms in C to scalable mobile applications integrated with AI services. I care about architecture, data modeling, performance, and building systems that solve real problems.
 
 ---
 
@@ -36,45 +36,41 @@ I’m interested in full-spectrum engineering — from memory management and alg
 ## 🛠 Tech Stack
 
 ### Languages
-C · Dart · Python · Java · JavaScript · TypeScript  
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+---
 
 ### Mobile & Frontend
-Flutter · Next.js · React  
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+---
 
 ### Backend & Cloud
-Firebase · REST APIs · AI service integration  
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
+
+---
 
 ### Core Engineering
-Algorithms · Data Structures · Linux · Memory Management  
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Algorithms](https://img.shields.io/badge/Algorithms-Data%20Structures-darkgreen?style=for-the-badge)
+![Memory](https://img.shields.io/badge/Memory-Management-red?style=for-the-badge)
 
 ---
 
-## 🧩 Technical Interests
+## 🌐 Portfolio & Profiles
 
-- Software architecture  
-- Low-level systems  
-- Performance optimization  
-- Product-oriented engineering  
-- Applied AI  
-
----
-
-## 📫 Contact
-
-- LinkedIn: (https://www.linkedin.com/in/pietro-giacomelli-ab9959305/)
-- Email:(https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pietrogiacomelli8@gmail.com) 
-
-<!--
-**pigiacomelli/pigiacomelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- LinkedIn: https://www.linkedin.com/in/pietro-giacomelli-ab9959305/
+- Devpost: https://devpost.com/pietrogiacomelli8
+- Email: pietrogacomelli8@gmail.com
